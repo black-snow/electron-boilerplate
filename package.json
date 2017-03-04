@@ -8,14 +8,6 @@
   "homepage": "http://example.com",
   "license": "MIT",
   "main": "app/background.js",
-  "build": {
-    "appId": "com.example.electron-boilerplate",
-    "files": [
-      "app/**/*",
-      "node_modules/**/*",
-      "package.json"
-    ]
-  },
   "scripts": {
     "postinstall": "install-app-deps",
     "build": "gulp build",

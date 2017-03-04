@@ -1,0 +1,8 @@
+{
+    "appId": "com.example.electron-boilerplate",
+    "files": [
+      "app/**/*",
+      "node_modules/**/*",
+      "package.json"
+   ]
+ }
